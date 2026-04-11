@@ -23,12 +23,12 @@ Building impactful and scalable solutions while exploring Artificial Intelligenc
 <p align="center">
 <a href="https://linkedin.com/in/dinagaran-n-453b09371" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/dinagaran_01" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/dinagaran_n" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
 </a>
 </p>
 
@@ -83,10 +83,6 @@ Git, Docker, Firebase, Linux, Postman
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dinagaran-n&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinagaran-n&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=dinagaran-n&theme=tokyonight&hide_border=true" />
