@@ -11,7 +11,7 @@ Building impactful and scalable solutions while exploring Artificial Intelligenc
 ## 🧑‍💻 About Me
 
 - 🎓 Currently pursuing my degree at **Rajalakshmi Institute of Technology**
-- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
+- 🤖 Strong interest in **Artificial Intelligence & Software development**
 - 💡 Passionate about building **real-world full-stack applications**
 - 🚀 Continuously learning and improving my skills
 - 🎯 Aspiring to become a skilled software engineer in AI-driven systems
